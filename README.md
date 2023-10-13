@@ -1,16 +1,5 @@
-# simple_food_recipes_ui_4
+# Simple Food Recipes UI 4
 
-A new Flutter project.
+Simple Food Recipes UI 4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/BilalSevinc16/Simple_Food_Recipes_UI_4/assets/146417248/25767248-7ea2-44d3-bffd-6447d64b60b8)
